@@ -5,7 +5,7 @@
 - 🔭 Estudando atualmente JavaScript, Typescript, React.js e React Native.
 
 
-<br>
+<br><br>
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

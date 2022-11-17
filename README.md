@@ -1,4 +1,4 @@
-## About me
+## 👋 About me
 
 - 🎓 Técnico em Informática.
 - 📃 Certificação Cisco IT Essentials: PC Hardware and Software.

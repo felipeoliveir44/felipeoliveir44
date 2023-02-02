@@ -2,7 +2,6 @@
 
 - 🎓 Técnico em Informática.
 - 📃 Certificação Cisco IT Essentials: PC Hardware and Software.
- <!-- - 🔥 Estudante em desenvolvimento Back-end utilizando JavaScript e C#. -->
 - 🔭 Estudando atualmente JavaScript, Typescript, React.js e React Native.
  <div align="center">
   <a href="https://github.com/felipeoliveir44">

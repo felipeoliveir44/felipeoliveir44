@@ -7,7 +7,7 @@
 
 ## 📊 Status
 
-<div>
+<div align="justify">
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Estatísticas de streak](https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=tokyonight&hide_border=true)

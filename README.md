@@ -8,11 +8,9 @@
 ## 📊 Status
 
 <div align="justify">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Estatísticas de streak](https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas" width="400px" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=tokyonight&hide_border=true" alt="Estatísticas de streak"  width="400px" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas"  width="400px" />
 </div>
 
 ## 🛠 &nbsp;Tech Stack

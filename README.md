@@ -8,8 +8,8 @@
 ## 📊 Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=tokyonight&hide_border=true" alt="Estatísticas de streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=tokyonight&hide_border=true" alt="Estatísticas de streak" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas"  width="400px"  />
 </div>
 

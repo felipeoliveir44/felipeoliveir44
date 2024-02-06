@@ -4,16 +4,17 @@
 
 
 # 👋 About me
-- 🎓 Técnico em Informática.<br>
-- 🎓 Desenvolvedor FullStack.<br>
-- 📃 Certificação Cisco IT Essentials: PC Hardware and Software.<br>
-- 🔭 Estudando atualmente JavaScript, Typescript, React.js, Java, C#.
+- 🎓 IT Technician.<br>
+- 🎓 FullStack Developer.<br>
+- 📃 Cisco IT Essentials Certification: PC Hardware and Software.<br>
+- 🔭 Currently studying JavaScript, Java, C#.
   
 # 📊 GitHub Stats:
+<img width=500px  style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img width=500px style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=vision-friendly-dark&hide_border=true" />
+
+<img width=500px style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 

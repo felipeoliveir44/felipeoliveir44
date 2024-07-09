@@ -5,9 +5,9 @@
 
 # 👋 About me
 - 🎓 IT Technician.<br>
-- 🎓 FullStack Developer.<br>
+- 🎓 Software development technician.<br>
 - 📃 Cisco IT Essentials Certification: PC Hardware and Software.<br>
-- 🔭 Currently studying JavaScript, Java, C#.
+- 🔭 Currently studying Java, ADVPL.
   
 # 📊 GitHub Stats:
 <img width=500px  style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" />

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464F51&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Luiz+Felipe;I'm+20+years+old;I'm+from+Brazil;I'm+a+student+of+Full-Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Luiz+Felipe;I'm+22+years+old;I'm+from+Brazil;I'm+a+student+of+Full-Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 # 👋 About me
@@ -10,11 +10,15 @@
 - 🔭 Currently studying Java, ADVPL.
   
 # 📊 GitHub Stats:
-<img width=500px  style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" />
+<div>
+  <img width=500px  style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" />
+  
+  <img width=500px style="height: 200px" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=vision-friendly-dark&hide_border=true" />
+</div>
 
-<img width=500px style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeoliveir44&theme=vision-friendly-dark&hide_border=true" />
-
-<img width=500px style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+<div>
+  <img width=500px style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveir44&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -24,6 +28,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![ADVPL](https://img.shields.io/badge/advpl-%2300000f.svg?style=for-the-badge&logo=advpl&logoColor=white)
+
 
 ## Contact
 <a href="https://www.linkedin.com/in/luiz-felipe-da-silva-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
